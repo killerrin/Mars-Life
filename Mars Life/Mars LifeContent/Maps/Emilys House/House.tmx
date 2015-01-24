@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="17" tilewidth="36" tileheight="36">
+ <tileset firstgid="1" name="Tileset A" tilewidth="36" tileheight="36">
+  <image source="../../Images/Tilesets/Tileset A.png" trans="ffffff" width="252" height="684"/>
+ </tileset>
+ <tileset firstgid="134" name="Tileset B" tilewidth="36" tileheight="36">
+  <image source="../../Images/Tilesets/Tileset B.png" trans="ffffff" width="216" height="576"/>
+ </tileset>
+ <tileset firstgid="230" name="Tileset C" tilewidth="36" tileheight="36">
+  <image source="../../Images/Tilesets/Tileset C.png" trans="ffffff" width="216" height="576"/>
+ </tileset>
+ <layer name="Collisions" width="28" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzjZWBg4B3FwwKjA2LUYFNHrhpqmkWqfcQAXOYRG07k2kfILQNpH7FpiVIzR+2jjX20AgNtHy0wPe3ChQGvzQ6H
+  </data>
+ </layer>
+ <layer name="Ground Layer 1" width="28" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzjZWBg4B3FQx5n4MCE5IlVO2rf8LSP1PRErpkDZR+t8Kh9tLWPlmUkPezCZR8Ajppogw==
+  </data>
+ </layer>
+ <layer name="Ground Layer 2" width="28" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgZIBEHJiRPrNqBts+cEb/YMyB+DsQ/0dT8QJKDgRdoal5isY8QeAPEb3HYB5ODgXdoat6TYd9nKCZGbgmaPDqf2oAa4UkKoEZ4DhdAKG+RohdZfLDYNwqGFgAAagIvjQ==
+  </data>
+ </layer>
+ <layer name="Ground Layer 3" width="28" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgZgJERRDAwCEAxiA0WgwK4OBaATY4NCeMDUkB90jjMJQWIIGF8QAFolyIO+zZQ7gwMoAa0Sx2LfatoYNcoGAWjYBQMZQAAEDAC3g==
+  </data>
+ </layer>
+ <layer name="Above Player" width="28" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwwkoMDIwKDKSpmcjBfapAe1SJ9E+EFhFgZ3YwGcoJlVuFIyCUTAK6AUAmAUFug==
+  </data>
+ </layer>
+ <layer name="Shadows" width="28" height="17" opacity="0.41">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGAa0BAAdwAAE=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,3 @@
+C:\Users\killer rin\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars LifeContent\obj\x86\Debug\Mars LifeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Samples\Final Project\Mars Life\Mars Life\Mars LifeContent\obj\x86\Debug\Mars LifeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars LifeContent\obj\x86\Debug\Mars LifeContent.contentprojResolveAssemblyReference.cache

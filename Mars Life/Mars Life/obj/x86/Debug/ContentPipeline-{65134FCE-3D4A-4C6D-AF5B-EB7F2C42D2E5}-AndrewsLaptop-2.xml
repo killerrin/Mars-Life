@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Tilesets\GroundTiles.png</Source>
+      <Name>Images\Tilesets\GroundTiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Tilesets\GroundTiles.xnb</Output>
+      <Time>2013-02-21T21:21:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Emily Warion\Coat_Headband.png</Source>
+      <Name>Images\Characters\Emily Warion\Coat_Headband</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\Coat_Headband.xnb</Output>
+      <Time>2013-02-21T21:57:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Emily Warion\Coat_NoHeadband.png</Source>
+      <Name>Images\Characters\Emily Warion\Coat_NoHeadband</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\Coat_NoHeadband.xnb</Output>
+      <Time>2013-02-21T21:57:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Emily Warion\Naked_Headband.png</Source>
+      <Name>Images\Characters\Emily Warion\Naked_Headband</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\Naked_Headband.xnb</Output>
+      <Time>2013-02-21T21:57:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Emily Warion\Naked_NoHeadband.png</Source>
+      <Name>Images\Characters\Emily Warion\Naked_NoHeadband</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\Naked_NoHeadband.xnb</Output>
+      <Time>2013-02-21T21:57:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Emily Warion\TornClothes_Headband.png</Source>
+      <Name>Images\Characters\Emily Warion\TornClothes_Headband</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\TornClothes_Headband.xnb</Output>
+      <Time>2013-02-21T21:57:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Emily Warion\TornClothes_NoHeadband.png</Source>
+      <Name>Images\Characters\Emily Warion\TornClothes_NoHeadband</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\TornClothes_NoHeadband.xnb</Output>
+      <Time>2013-02-21T21:57:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Splash Screen\logo.png</Source>
+      <Name>Images\Splash Screen\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Splash Screen\logo.xnb</Output>
+      <Time>2013-03-08T22:30:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tilesets\Basic Tiles.png</Source>
+      <Name>Images\Tilesets\Basic Tiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Tilesets\Basic Tiles.xnb</Output>
+      <Time>2013-03-11T19:47:17-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\Lakeside\LakeSide.tmx</Source>
+      <Name>Maps\Lakeside\LakeSide</Name>
+      <Importer>TMXContentImporter</Importer>
+      <Processor>TMXContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside\LakeSide.xnb</Output>
+      <Time>2013-03-11T20:10:24-04:00</Time>
+      <Request>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside\LakeSide\00.xnb</Request>
+      <Request>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside\LakeSide\01.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Maps\Lakeside2\Lakeside.tmx</Source>
+      <Name>Maps\Lakeside2\Lakeside</Name>
+      <Importer>TMXContentImporter</Importer>
+      <Processor>TMXContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside2\Lakeside.xnb</Output>
+      <Time>2013-02-28T02:40:18-05:00</Time>
+      <Request>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside2\Lakeside\00.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Maps\House\House.tmx</Source>
+      <Name>Maps\House\House</Name>
+      <Importer>TMXContentImporter</Importer>
+      <Processor>TMXContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\House\House.xnb</Output>
+      <Time>2013-03-09T01:50:19-05:00</Time>
+      <Request>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\House\House\00.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Fonts\SegoeFont.spritefont</Source>
+      <Name>Fonts\SegoeFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Fonts\SegoeFont.xnb</Output>
+      <Time>2013-02-22T21:01:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tilesets\GroundTiles.png</Source>
+      <Name>Maps\Lakeside\LakeSide\00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside\LakeSide\00.xnb</Output>
+      <Time>2013-02-21T21:21:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tilesets\Basic Tiles.png</Source>
+      <Name>Maps\Lakeside\LakeSide\01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFFFFFF</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside\LakeSide\01.xnb</Output>
+      <Time>2013-03-11T19:47:17-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tilesets\GroundTiles.png</Source>
+      <Name>Maps\Lakeside2\Lakeside\00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside2\Lakeside\00.xnb</Output>
+      <Time>2013-02-21T21:21:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tilesets\GroundTiles.png</Source>
+      <Name>Maps\House\House\00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\House\House\00.xnb</Output>
+      <Time>2013-02-21T21:21:32-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{65134FCE-3D4A-4C6D-AF5B-EB7F2C42D2E5}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars LifeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\XTiledExtensions\bin\x86\Debug\FuncWorks.XNA.XTiledExtensions.dll</Key>
+        <Value>2013-03-14T17:08:08.3546835-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-31T07:13:39.7895474-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="140" height="60" tilewidth="36" tileheight="36">
+ <tileset firstgid="1" name="Tileset A" tilewidth="36" tileheight="36">
+  <image source="../../Images/Tilesets/Tileset A.png" trans="ffffff" width="252" height="684"/>
+ </tileset>
+ <tileset firstgid="134" name="Tileset B" tilewidth="36" tileheight="36">
+  <image source="../../Images/Tilesets/Tileset B.png" trans="ffffff" width="216" height="576"/>
+ </tileset>
+ <layer name="Collisions" width="140" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt10EOhCAMQFEu4P2vOys3Jig6LSX6fvJ2hilCYmZrrW0AAAAAAAAAAAAAAAAAANCxVz0H6ztWPQ/r6lU9F/PvwJ1nj1XvgXn2Rp/rVb0P5tgbeeaq6r28wdV7PSt7zcwy73TVbE/Xiij7vFYq+11GzhMx5wp7VG7OV1JE2d8jvSv35VtF/veKvjerzhU12z+Nrld5vrPOpXqukbOceTef/Hb0nKzpqrtrVe+HfGdVzwYAAAAAAAAAAPAVP8xDexg=
+  </data>
+ </layer>
+ <layer name="Ground Layer 1" width="140" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1kEOAUEURVErsSszM/vfg4mRkK73dXf9inOTNxGhVR/icvmta2H633hREi9K4kVJvCiJFyXxoiRelMSLknhREi9K4kVJvCiJFyXxoiRelMSLknhREi9K4kVJvCiJFyXxoiRelMSLknhREi/ndn9t1Xg5r/vbVoyXc3q3sqoZXuol95wXjd7zb1ZWNMNLvZH7vWVlNTOdvWydbeX8t547+pqjDirbs+TMRlbxcuRZWe/xYtXdBh8zu21s9vVZjz0Km33Nxov1vd+fNvI/N3Wz17Ud4fms90nev9MZ/mrlk5luTmZYPuo73uksq1a+/c7YuJ/0tWZ/Hl7mmpl9bbwYL9Z1vBgvxot1GC/Gi/FiHcaL8WK8WIfxYrwYL9ZhvBgvxovtsSdwMqJl
+  </data>
+ </layer>
+ <layer name="Ground Layer 2" width="140" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztmGtuwyAQBjlo//ls9jkrS7VEEY8FFi/gGWkUNSE8li/G7uGcOxAREREREREREREREREREREREREn8iej9dxwDnMZITvYmpGROSKLe+z/qKxw7dLd4xXy0ZKjXc66N+duvX/S/bIcvzeXq9Z/hTnmam49n6/VfyVX/D3imAzUtCUv31W6534+zj/JzPesfRa7OR2ZGb0fqbpqPZO19Fn73PZweq9hZkZkJ+zT4tmzt7+eOR9KfWiY2/NYXs7Ia88eWaxZMy+S/q332CIvzv0/h5z3nptgHZoZsp7LzEry8hBmJcR6LTtYqmuO0X3GrhdajKhhbX7DdtJzN2VsvJ4c1KDRRyuxe5BRY9xo17El5zX3W9KspOalnZXYGG/jj6s5vtV6SpwFU9fdMJu5tcXax7gKn2vxjHEp96dJqVb+Z7XrSN1rl8aJ9dFjOMbl/S3JTO9v6nKy2knP6hak37vb9eQ1V6tL0C7830+qTc37EqRnoDQzJWI1lvSldS1pJRx/1vOmRO/+1XxfIy+7EK7fOs9vQwbGsGuOyAuALrteKwAAAAAAAAAAAAAAAAAAAAAAAAB24hdJSDnp
+  </data>
+ </layer>
+ <layer name="Ground Layer 3" width="140" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt0rENAEAIAzHGZwAG/m+oKaGwpVMWSAQAAAAAAAAAAAAAAAAAAAAAAAAAwE35q2Gh+QsAAAAAAAAAAAAAAOx5UboJ8Q==
+  </data>
+ </layer>
+ <layer name="Above Player" width="140" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1kEKxCAMAMD+1f//YS97EmvVxFJwBjwZ06iBel0AAAAAAAAAAAAAAADAV5X/gCelGnCn7hE9c56ZO2/F6ZezjPZLL0bPnKH+t/TiIvOMq9+H9bm25kfvJ5qz9RaZreVufaa7d9PKyKhjJV+k5pKUI2OM7Cd6Jitr3tjzjEj+aG3Rs8zKudPOnt5R12zMU2xGj9bfOcXOc8yuJ6POL+yRvdwvAAAAAAAAAAAAAAAAANDzA1QfbQ8=
+  </data>
+ </layer>
+ <layer name="Shadows" width="140" height="60" opacity="0.35">
+  <data encoding="base64" compression="zlib">
+   eJzt2L0OwiAUgFEGV5x8/2c1JE4NsUD/bss5CZs1lPsltqYEAAAAAAAAAAAAAAAARJV/C9bkpBfa5KSX2fXMXi+0zn7ZyvvITRFWSy9aOc/aGY/MYK/vbP1t0cv2+++dSe1zo3u4spcZWym2nEHPtU/qZZZWavc7OqtX57V36CV6B2e/j13ZS+++ZhPxDP71cuSzC/dkvgBAVMv/IWsLipZWNEPxGVgAAAAAAAAAAAAAT/IFz0kKZA==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="36" tileheight="36">
+ <tileset firstgid="1" name="Basic Tiles" tilewidth="36" tileheight="36">
+  <image source="../../../Images/Tilesets/GroundTiles.png" width="108" height="108"/>
+ </tileset>
+ <layer name="Behind Player" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3MGKwkAUBVHF+f9vdjEIg4gOsbvffZ1TUPv0LTXERS4XAAAAAAAAAAAAALvx80Ks51WHszep2OJThzP0+O8GR51xHTswe/d321U1TqJq/1WNO1C9kx6/VO8z2+uTqVTvtGr/Dj0Sd1plArtu262H/XN62D+nhw69e1RvtGsP+2f3qD57oivwHcjo4fcov0f1edMdhft0XQ/PD7U9/KdR12PE9locd8b+OuT1qD5XVzXIUoMsbUuSJEmSJEmSJMmZ3gZZfY5dHNVDk3q1yVSTTPXIVJMs9chTkyzdS/L0LJOp58y+6pKrNrlqk6n7Tbb65KpNtvpkq0+unkvz/fZ/BB17dqo+z1nVKV9N8v3bw3sZsvROkiy91yfL3d5/lXIdaT1mdEu8ptGflwfVXbo467Pz3KN7l2+pvv5R55h1vhRm7556bgAAcJw75QInfg==
+  </data>
+ </layer>
+ <layer name="Shadows" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+ <layer name="In Front of Player" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+ <layer name="Collisions" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3DGOwzAUQ0HB9z90agUxXAQyaXkGeO3G+9nrGGMckiRJkiRJkiRJkrbql/Q3vbEr6e9ruklyhzu+Id1qK74jfbMn3P3Mit9O3/JJ979D+rY2mKXvbIdZ+t52mKXvbotZ+vZvv/83O3SxRRdbdLFHFzt0sUcXO3SxQxd7dHH7Lm7fxf27uD0AAAAAAAAAAAAAAAAAAAAAAAAA0M67iV12ec9yl/eDW9+mXvludsNOZ38//f9KkqT/+wANbRjr
+  </data>
+ </layer>
+ <layer name="Coloring" width="100" height="100" opacity="0.46">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+</map>

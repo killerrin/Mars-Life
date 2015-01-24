@@ -1,0 +1,12 @@
+Content\Maps\Lakeside\Tiles.xnb
+Content\Images\Characters\Emily Warion\Coat_Headband.xnb
+Content\Images\Characters\Emily Warion\Coat_NoHeadband.xnb
+Content\Images\Characters\Emily Warion\Naked_Headband.xnb
+Content\Images\Characters\Emily Warion\Naked_NoHeadband.xnb
+Content\Images\Characters\Emily Warion\TornClothes_Headband.xnb
+Content\Images\Characters\Emily Warion\TornClothes_NoHeadband.xnb
+Content\Maps\Lakeside\LakeSide.xnb
+Content\Maps\Lakeside\LakeSide_Old.xnb
+Content\Maps\Lakeside\LakeSide_Old\00.xnb
+Content\Maps\Lakeside\LakeSide\00.xnb
+Content\Fonts\SegoeFont.xnb

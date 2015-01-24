@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="75" height="75" tilewidth="36" tileheight="36">
+ <tileset firstgid="1" name="Tiles" tilewidth="36" tileheight="36">
+  <image source="../../../Images/Tilesets/GroundTiles.png" width="108" height="108"/>
+ </tileset>
+ <tileset firstgid="10" name="Tileset A" tilewidth="36" tileheight="36">
+  <image source="../../../Images/Tilesets/Tileset A.png" trans="ffffff" width="252" height="684"/>
+ </tileset>
+ <tileset firstgid="143" name="Tileset B" tilewidth="36" tileheight="36">
+  <image source="../../../Images/Tilesets/Tileset B.png" trans="ffffff" width="216" height="576"/>
+ </tileset>
+ <layer name="Collisions" width="75" height="75" opacity="0.9">
+  <data encoding="base64" compression="zlib">
+   eJztm7tuFDEUhl2jpQERLg1CJIpEQBHJA6Wgi3gXHiChgFCQRMoCDWmggQfDFrZ0ML6cY5/jsWfml355Mx7NzH75fVnvel8ptb969erVqxfjnGqufah9R/ue9kb7VQfvV5JVKa9DyyjkUblxs4JZynk0ZiUqyRLVmw7YcLDi4pFzz5nrjVVv7db1LRS5536COPdRJZuemLl7SyvH7HHGU3PzxytpxXhx5lOKm3+fEYRhJsFrRFZGrXil5okjqcUYQBlrMP3IVKKOr1Rm2M8eWEZn2u8zPrfnXmmfRHyFvJ+vkvkIlhl3lj5pvwkY6sKW1+ovF18ntq5GEhnjbnMxVpAZltUDcOwh8TmMSjNGZVXaL1FZvQVW4DUHKycqs1i+uMc/yOoUOMTqi4qzMnVcrJxq564SrBwfI5+b0QU4/8YaamtLn9XdiueCKp2LcbG6tCWV1aWKy7DasebIFRSVV+q8Un1Q/3I59fxO+2PF9SWU48bB6jPvI/+nVOa4leIllauRFeNVM18o/X9L55BDIV6pvp1DFC69MfR5SbPytfX+TmWzZT8VE+RVw8rPQei9bRN1VPnzr1ZyvKisMO3kufYesv4GHDsIOHWdlrqvZNrgaxV/nzEmKceusxupk5DJFhcrP29UHlReL+zxl8TnrFGME3Z9IdQPlWSHystk90j7GPmcHKrhFJMEpx76L45+6qv2N1C6/krKUwnDymfh1/3Q/glKaV5TZSvHKsbC6bv2L+3foLy1dXPLVo5VigU85xaUTnPrt2pzlZIkqyl4ceQqJmlWrduiZK6kx8PW2ZLMldGcsiWZK6M5ZUs6V0YtstWCF2YuGpsTYNUiWy14tVoPdRr58480q9A6kyQvSUmzwqwzcbKTbIchVhvG62PXmUbIVogVNy+MRsjWM9UXr2Pwujdeue/oW/OCquElsQ5vWKWyJT2HyAnyomROYh3efY/TU1v0Bdumf9xwOVJt+nbs72t7lRtnTZuTypMTltXU2epBkFWu31o6L+rv3JfMq2T/xFJ5le5fKuWV+w1Nz/JZ5fqsWl6x8b93mb1doT0UFF5LkNsDl9v/tcSxMbY/ELO3cO68MHsnnyrePasjMcPuLaVyajE+thKFUQknCqseeVH51HCijo298CplVMOpJFuSvGoYtODUcr7akhEnF+62WcpwdE4czKZyCac/ZvC9OQ==
+  </data>
+ </layer>
+ <layer name="Behind Player" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt2LFuwzAMBFB/Q5CtW5eiX9Wpndqh/790sQHDaGxK5OlODAMckCGIT8+07OS2LMutUqlUKpVKpVKppMibQAfleHxejWGvkRGrTUazlpnyOp15ZbKOckJ6q4Rtw/Jq3cvZJmyvDE5oK+tMtfR9CYyaF9Pp80EiDDM5Way+1vSaZTDa8r3Lx+691UrBzOv0fkiv1c+aqP1N1ep3Z7W9jp+7rxl9Pxhtddb3aHU1X9EZec/07lFsqxYvr1mP0z04s3ixnaLtUF6tMxU9Cyg3hBfTqcVOwctqNcLJ4sb0UnVS9LqyYjpF94i2UnQ69vF8h8fLYsU2ij53PVbWfYptNNLLu6ezfRBWj7x6ZkrVCtGrxWpUJ1WrvdeZ1ehOqlZbslohumW2iu6XzQo5W16rZ/LKarXvyLaawSu6X5SVopeS1UxeaKseL7YNslvLf8eW3zzKXopWal5RvVqtZvRCWvXO1gxeCKtILwUztFW0F9NshNWZV0tHthvbyuqlYHZ2fGssVt7ZYrtFOEVY9XpZ1oCwQl+DSK+ec89warXyPKcyrpnoGW21Qs8XwrDnWP+trceK6YXK1fXisZrdy2ITaRX9LKHoE+U0y2yxbFj3RrQPykZxxpRmh+3l2WvUjFBeGX1QXpmNrF7PYsD0Yq9nFkN254o9f+LFIto=
+  </data>
+ </layer>
+ <layer name="Copy of Collisions" width="75" height="75" opacity="0.9">
+  <data encoding="base64" compression="zlib">
+   eJztm7tuFDEUhl2jpQERLg1CJIpEQBHJA6Wgi3gXHiChgFCQRMoCDWmggQfDFrZ0ML6cY5/jsWfml355Mx7NzH75fVnvel8ptb969erVqxfjnGqufah9R/ue9kb7VQfvV5JVKa9DyyjkUblxs4JZynk0ZiUqyRLVmw7YcLDi4pFzz5nrjVVv7db1LRS5536COPdRJZuemLl7SyvH7HHGU3PzxytpxXhx5lOKm3+fEYRhJsFrRFZGrXil5okjqcUYQBlrMP3IVKKOr1Rm2M8eWEZn2u8zPrfnXmmfRHyFvJ+vkvkIlhl3lj5pvwkY6sKW1+ovF18ntq5GEhnjbnMxVpAZltUDcOwh8TmMSjNGZVXaL1FZvQVW4DUHKycqs1i+uMc/yOoUOMTqi4qzMnVcrJxq564SrBwfI5+b0QU4/8YaamtLn9XdiueCKp2LcbG6tCWV1aWKy7DasebIFRSVV+q8Un1Q/3I59fxO+2PF9SWU48bB6jPvI/+nVOa4leIllauRFeNVM18o/X9L55BDIV6pvp1DFC69MfR5SbPytfX+TmWzZT8VE+RVw8rPQei9bRN1VPnzr1ZyvKisMO3kufYesv4GHDsIOHWdlrqvZNrgaxV/nzEmKceusxupk5DJFhcrP29UHlReL+zxl8TnrFGME3Z9IdQPlWSHystk90j7GPmcHKrhFJMEpx76L45+6qv2N1C6/krKUwnDymfh1/3Q/glKaV5TZSvHKsbC6bv2L+3foLy1dXPLVo5VigU85xaUTnPrt2pzlZIkqyl4ceQqJmlWrduiZK6kx8PW2ZLMldGcsiWZK6M5ZUs6V0YtstWCF2YuGpsTYNUiWy14tVoPdRr58480q9A6kyQvSUmzwqwzcbKTbIchVhvG62PXmUbIVogVNy+MRsjWM9UXr2Pwujdeue/oW/OCquElsQ5vWKWyJT2HyAnyomROYh3efY/TU1v0Bdumf9xwOVJt+nbs72t7lRtnTZuTypMTltXU2epBkFWu31o6L+rv3JfMq2T/xFJ5le5fKuWV+w1Nz/JZ5fqsWl6x8b93mb1doT0UFF5LkNsDl9v/tcSxMbY/ELO3cO68MHsnnyrePasjMcPuLaVyajE+thKFUQknCqseeVH51HCijo298CplVMOpJFuSvGoYtODUcr7akhEnF+62WcpwdE4czKZyCac/ZvC9OQ==
+  </data>
+ </layer>
+ <layer name="Coloring" width="75" height="75" opacity="0.87">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20Hb6AAAAAAAAAAAAAAAAAAAAAAAAAAAACAxwBX5AAB
+  </data>
+ </layer>
+ <layer name="In Front of Player" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt0kEKgCAQQFEv0LI6YDvvf4AIDGYxSERE5HswKLqRj6UAAAAAAPCmqU3vfgRbMuSyVneazWG/PvO0z9HqurNLDaNVrrY1/qcazq86Wi1ttOoboRUAAAAAAAAAAAAAAAAAAP+xA8s/EE0=
+  </data>
+ </layer>
+ <layer name="Shadows" width="75" height="75" opacity="0.42">
+  <data encoding="base64" compression="zlib">
+   eJzt1TsKgDAQQMFtLfw06v1vqoIWfoIWQcHMwDZhi/CKJAIAAAAAII/6Zv6umae9mO6wt7ToI91pfOm+X+oT50Ocm6V2FyW3qtYZH+xGaKXVXo5Wpb9Xm6cNSvgHc7UqgVYAAAAAAAAAAAAAAAAAAP8yAcTOA6s=
+  </data>
+ </layer>
+</map>

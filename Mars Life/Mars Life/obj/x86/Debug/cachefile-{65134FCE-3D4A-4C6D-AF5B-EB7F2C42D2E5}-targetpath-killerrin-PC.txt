@@ -1,0 +1,34 @@
+Content\Images\Tilesets\GroundTiles.xnb
+Content\Images\Characters\Emily Warion\Coat_Headband.xnb
+Content\Images\Characters\Emily Warion\Coat_NoHeadband.xnb
+Content\Images\Characters\Emily Warion\Naked_Headband.xnb
+Content\Images\Characters\Emily Warion\Naked_NoHeadband.xnb
+Content\Images\Characters\Emily Warion\TornClothes_Headband.xnb
+Content\Images\Characters\Emily Warion\TornClothes_NoHeadband.xnb
+Content\Images\Splash Screen\logo.xnb
+Content\Images\Tilesets\Basic Tiles.xnb
+Content\Images\Tilesets\Tileset A.xnb
+Content\Images\Tilesets\Tileset B.xnb
+Content\Images\Chests\Horizontal Closed.xnb
+Content\Images\Chests\Opened Down.xnb
+Content\Images\Chests\Opened Left.xnb
+Content\Images\Chests\Opened Right.xnb
+Content\Images\Chests\Opened Up.xnb
+Content\Images\Chests\Vertical Closed.xnb
+Content\Images\Animals\Birds\Pigeon.xnb
+Content\Images\Animals\Birds\Seagull.xnb
+Content\Images\Titlescreen\Mars SpriteSheet.xnb
+Content\Images\Titlescreen\Space.xnb
+Content\Maps\Lakeside\LakeSide.xnb
+Content\Maps\Lakeside2\Lakeside.xnb
+Content\Maps\House\House.xnb
+Content\Fonts\SegoeFont.xnb
+Content\Images\Titlescreen\Planet\Mars.xnb
+Content\Maps\Lakeside\LakeSide\00.xnb
+Content\Maps\Lakeside\LakeSide\01.xnb
+Content\Maps\Lakeside\LakeSide\02.xnb
+Content\Maps\Lakeside2\Lakeside\00.xnb
+Content\Maps\House\House\00.xnb
+Content\Mars_With Clouds_Sharpended_0.xnb
+Content\Blue Opacated_0.xnb
+Content\Fonts\Segoe16Font.xnb

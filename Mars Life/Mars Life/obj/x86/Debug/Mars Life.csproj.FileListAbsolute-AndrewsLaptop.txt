@@ -1,0 +1,20 @@
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside\Tiles.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Mars Life.exe
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Mars Life.pdb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\FuncWorks.XNA.XTiled.dll
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\FuncWorks.XNA.XTiled.xml
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\obj\x86\Debug\Mars Life.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\obj\x86\Debug\Mars Life.exe
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\obj\x86\Debug\Mars Life.pdb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\Coat_Headband.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\Coat_NoHeadband.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\Naked_Headband.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\Naked_NoHeadband.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\TornClothes_Headband.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Images\Characters\Emily Warion\TornClothes_NoHeadband.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside\LakeSide.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside\LakeSide\00.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside\LakeSide_Old.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Maps\Lakeside\LakeSide_Old\00.xnb
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2010\Projects\XNA\Final Project\Mars Life\Mars Life\Mars Life\bin\x86\Debug\Content\Fonts\SegoeFont.xnb
